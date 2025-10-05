@@ -1,0 +1,13 @@
+{"level":"info","message":"🚀 Server running in development mode on port 3001","timestamp":"2025-10-05T14:33:24.996Z"}
+{"level":"info","message":"📋 API Documentation: http://localhost:3001/api/docs","timestamp":"2025-10-05T14:33:24.998Z"}
+{"level":"info","message":"✅ MongoDB Connected: localhost","timestamp":"2025-10-05T14:33:25.044Z"}
+{"level":"info","message":"GET /api/docs","timestamp":"2025-10-05T14:34:25.786Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2025-10-05T14:34:26.763Z"}
+{"level":"info","message":"GET /api/docs","timestamp":"2025-10-05T14:36:27.627Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 3001","timestamp":"2025-10-05T14:38:06.523Z"}
+{"level":"info","message":"📋 API Documentation: http://localhost:3001/api/docs","timestamp":"2025-10-05T14:38:06.525Z"}
+{"level":"info","message":"✅ MongoDB Connected: localhost","timestamp":"2025-10-05T14:38:06.543Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 3001","timestamp":"2025-10-05T14:40:25.261Z"}
+{"level":"info","message":"📋 API Documentation: http://localhost:3001/api/docs","timestamp":"2025-10-05T14:40:25.263Z"}
+{"level":"info","message":"✅ MongoDB Connected: localhost","timestamp":"2025-10-05T14:40:25.282Z"}
+{"level":"info","message":"GET /api/v1/tickets","timestamp":"2025-10-05T14:41:30.418Z"}
